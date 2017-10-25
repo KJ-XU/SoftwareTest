@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/234/Desktop/新建文件夹233/新建文件夹/jtds-1[1].1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/234/Desktop/新建文件夹233/新建文件夹/mysql-connector-java-5.1.27-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
